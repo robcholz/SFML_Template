@@ -1,5 +1,5 @@
 # SFML Template
-A SFML renderer template with Clion.
+A SFML renderer template for Clion.
 ### Usage
 ``git clone https://github.com/robcholz/SFML_Template.git``
 ### Notes
